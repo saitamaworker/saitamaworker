@@ -52,11 +52,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 🔗 Redes sociales</b>
-<br>
-
-<a href="https://www.facebook.com/diegollanosr17" target="_blank">![Facebook](https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href="https://www.instagram.com/diegollanosr17/" target="_blank">![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/diegollanosr/" target="_blank">![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.youtube.com/@diegollanosr" target="_blank">![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
