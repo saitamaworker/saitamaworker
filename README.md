@@ -28,7 +28,7 @@
 
 💬 &nbsp ;Sientete libre de escribirme por la razon que sea. Amo ayudar.
 
-✉️ &nbsp; Sientete libre de enviarme un correo a eduiuorio@gmail.com!. Tratare de responder a la brevedad.
+✉️ &nbsp; Sientete libre de enviarme un correo a eduiuorio@gmail.com!.
 
 :thinking: Siempre abierto a nuevas oportunidades.
 
@@ -40,7 +40,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
 ![Interacción](https://img.shields.io/badge/Interacción-orange?style=for-the-badge) 
