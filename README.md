@@ -1,5 +1,5 @@
 <img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-<h1 align="center"><strong>Hola, soy Eduardo Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><strong>Hola, soy Eduardo Iuorio</strong> </h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=PROGRAMADOR+FULL+STACK,;APRENDIZ+CONTINUO,;ESTUDIANTE+ACTUAL+APLICACIONES+MOVILES+ISPC;"></a>
 </p>
