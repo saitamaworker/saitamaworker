@@ -4,11 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NADA+HAY+TOTALMENTE+VERDADERO,;NADA+HAY+TOTALMENTE+FALSO;TEXTO+TAOISTA;"></a>
 </p>
 
-
-
-
-<br><br>
-
+<br>
 
 
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí</b>
@@ -37,12 +33,11 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>><b> Skills</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Skills</b>
 <br>
 
-
 ![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
-![Interacción](https://img.shields.io/badge/Interacción-orange?style=for-the-badge) 
+![Resolucion de problemas](https://img.shields.io/badge/Resoluciondeproblemas-orange?style=for-the-badge) 
 ![Planificación y Foco](https://img.shields.io/badge/Planificación%20y%20Foco-8500fb?style=for-the-badge) 
 ![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
@@ -53,12 +48,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Stack</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Mi Stack</b>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,markdown,git,github,html,java,css,angular,bootstrap,tailwind,figma,django,nodejs,py,ts,js,mysql,sqlite,postman,selenium,vscode,vercel,androidstudio,windows,discord"/>
   </a>
 </p>
 
@@ -69,7 +64,78 @@
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Algunos de mis proyectos! 🎨<b>
 <br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Challenge Encriptador de texto</h3>
+<div align= "center">
+<a href="https://github.com/Elnenedelguion/Encriptador-de-texto" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/b30872fb-39a7-48e2-8a4e-c38869ced3a3" width="400" alt="Challenge Encriptador de texto">
+</a>
+<a href="https://github.com/Elnenedelguion/Encriptador-de-texto" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://encriptador-de-texto-alpha-one.vercel.app" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Web Page-green?style=for-the-badge&color=fbfc40">
+</a>
+<p>Este proyecto es un encriptador de texto simple que permite transformar palabras o frases utilizando un patrón específico. Puedes encriptar y desencriptar texto de manera sencilla.</p>
+</div>
+                                                                                      
+</td>
+<td width="50%">
+<br>
+<h3 align="center">El juego del número secreto</h3>
+<div align="center">                                       
+<a href="https://github.com/Elnenedelguion/EL-JUEGO-DEL-NUMERO-SECRETO" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/75dd7816-bfc7-418f-ab81-8633b0e8565c"></a>
+<br>
+<p>
+<a href="https://github.com/Elnenedelguion/EL-JUEGO-DEL-NUMERO-SECRETO" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://el-juego-secreto-nine.vercel.app/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Web Page-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p> Adivina un número del 1 al 10. Cada vez que intentas, se te indica si el número es mayor o menor que tu elección. Si aciertas, se te felicita por haberlo hecho. Si no, puedes seguir probando hasta que se te agoten las posibilidades. </p>
+</div>                                                             
+</table>                                                                                 
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Traductor de idiomas</h3>
+<div align= "center">
+<a href="https://github.com/Elnenedelguion/API---TRADUCTOR" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/b9e58e42-b7b7-4872-ad5f-1aeebe10d222" width="360" alt="Traductor de idiomas">
+</a>
+<a href="https://github.com/Elnenedelguion/API---TRADUCTOR" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://api-traductor.vercel.app/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Web Page-green?style=for-the-badge&color=fbfc40">
+</a>
+<p>Este proyecto web permite traducir palabras de un idioma a otro utilizando una API de traducción.</p>
+</div>
+                                                                                      
+</td>
+<td width="50%">
+<br>
+<h3 align="center">ONEDROP mobile</h3>
+<div align="center">                                       
+<a href="https://github.com/Elnenedelguion/One_Drop_Mobile" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/91642474/201812010-d6c3a082-548c-4b14-83ec-89f902f3f6a0.png" width="400" alt="ONEDROP mobile"></a>
+<br>
+<p>
+<a href="https://github.com/Elnenedelguion/One_Drop_Mobile" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/Elnenedelguion/One_Drop_Mobile/blob/main/OneDrop_APK.apk" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-APK Onedrop-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Este proyecto web permite la gestion efectiva de la Diabetes a raves de diversas funcionalidades.</p>
+</div>                                                             
+</table> 
 
 
 <br>
@@ -77,12 +143,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Certificados! 🏆<b>
 <br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
+
+<a href="https://github.com/user-attachments/assets/b5efcdc7-cae0-4e2c-9708-5a06dd834c4c" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-QR Certificados-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/education/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Educacion-blue?style=for-the-badge&color=blue">
+</a>
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/experience/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Experiencia-red?style=for-the-badge&color=red">
+</a>
+
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
