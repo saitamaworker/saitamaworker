@@ -21,16 +21,15 @@
 
 ✍️ &nbsp;En mi tiempo libre me gusta leer.
 
-💬 &nbsp;Sientete libre de escribirme por la razon que sea. Amo ayudar.
+💬 &nbsp;Amo ayudar.
 
-✉️ &nbsp;Puedes enviarme un correo a eduiuorio@gmail.com si lo deseas.
+:thinking:Siempre abierto a nuevas oportunidades.
 
 :boom:Ingles [B2 Level](https://cert.efset.org/qAyz7k)
 
 📄 &nbsp;Mi [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
 
-:thinking:Siempre abierto a nuevas oportunidades.
-<!--Soft Skills -->
+✉️ &nbsp;<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -155,11 +154,7 @@
 </a>
 
 
-
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
@@ -172,23 +167,28 @@
 		         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://x.com/Profitoiuo?t=omx0XwDjHHg_i_F6S3y7oQ&s=08">
 	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	<a style="margin-left: 10px;"  target="_blank" href= https://discord.com/channels/elnenedelguion">
-                         <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
-        <a href="https://medium.com/@eduiuorio" target="blank">
-		  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  
-	 <a href = "mailto: eduiuorio@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"></a>
+	<a style="margin-left: 10px;"  target="_blank" href="https://discord.com/channels/elnenedelguion"><img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
+        <a href="https://medium.com/@eduiuorio" target="blank"><img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
+	
 
-  
+  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </div>
 
 </p>
 
-<br><br>
+<br><br><br>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conectar con diferentes personas</b> por lo que si quieres puedes saludarme.<b> Me encantaría</b></em> 🫣
 
-Credit: [Eduardo Iuorio](https://github.com/saitamaworker)
+<br>
 
-Last Edited on: 08/09/2024
+ <div align=center>
+       <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+       </a>
+       <p>Ultima Edición: 08/09/2024</p>
+</div>
+
 
 
 
