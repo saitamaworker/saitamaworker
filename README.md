@@ -46,9 +46,8 @@
 
 
 <br>
-<!--Stack - Tecnologías - Herramienta -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Stack - Tecnologías - Herramientas</b>
 <br>
 
@@ -60,7 +59,7 @@
 
 
 <br>
-<!-- Algunos de mis proyectos -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Algunos de mis proyectos! 🎨<b>
 <br>
@@ -140,27 +139,28 @@
 
 
 <br>
-<!-- Mas sobre mí -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Mas sobre mí🏆<b>
 <br>
 
-<a href="https://github.com/user-attachments/assets/b5efcdc7-cae0-4e2c-9708-5a06dd834c4c" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-QR Certificados-green?style=for-the-badge&color=3fFD7f">
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/certifications" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Certificados-green?style=for-the-badge&color=3fFD7f">
 </a>
-<a href="https://www.linkedin.com/in/eduardo-iuorio/details/education/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/education" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Educacion-blue?style=for-the-badge&color=blue">
 </a>
-<a href="https://www.linkedin.com/in/eduardo-iuorio/details/experience/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/experience" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Experiencia-red?style=for-the-badge&color=red">
 </a>
 
 
 
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- Conecta conmigo -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
 <p align="center">
@@ -172,7 +172,13 @@
 		         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://x.com/Profitoiuo?t=omx0XwDjHHg_i_F6S3y7oQ&s=08">
 	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	</div>
+	<a style="margin-left: 10px;"  target="_blank" href= https://discord.com/channels/elnenedelguion">
+                         <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
+        <a href="https://medium.com/@eduiuorio" target="blank">
+		         <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" /></a>
+
+  
+</div>
 
 </p>
 
