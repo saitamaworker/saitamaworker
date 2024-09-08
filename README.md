@@ -9,26 +9,27 @@
 
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí</b>
 <br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 :school: Programador full stack jr.
 
-:student: Actual Estudiante Aplicaciones Moviles en Instituo Politecnico de Cordoba, Arg.
+:student: Actual Estudiante App Moviles en Politecnico de Cordoba, Arg.
 
-:nerd_face: Amo aprender continuamente.
+:nerd_face: Amo aprender sobre todo lo que nos rodea.
 
-🌱 &nbsp;Estoy fortaleciendo mis estudios sobre ciberseguridad.
+🌱 &nbsp; Estoy fortaleciendo mis estudios sobre ciberseguridad.
 
-✍️ &nbsp; En mi tiempo libre me gusta escribir.
+✍️ &nbsp; En mi tiempo libre me gusta leer.
 
-💬 &nbsp ;Sientete libre de escribirme por la razon que sea. Amo ayudar.
+💬 &nbsp; Sientete libre de escribirme por la razon que sea. Amo ayudar.
 
-✉️ &nbsp; Sientete libre de enviarme un correo a eduiuorio@gmail.com!.
+✉️ &nbsp; Puedes enviarme un correo a eduiuorio@gmail.com si lo deseas.
+
+:boom:Ingles [B2 Level](https://cert.efset.org/qAyz7k)
+
+📄 &nbsp; Mi [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
 
 :thinking: Siempre abierto a nuevas oportunidades.
-
-:boom:Ingles B2
-
 
 <br>
 
