@@ -18,7 +18,7 @@
 
 :nerd_face:Amo aprender sobre todo lo que nos rodea.
 
-🌱 &nbsp;Estoy fortaleciendo mis estudios sobre ciberseguridad.
+🌱 &nbsp;Profundizando mis estudios sobre Ciberseguridad.
 
 ✍️ &nbsp;En mi tiempo libre me gusta leer.
 
@@ -38,15 +38,15 @@
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Soft Skills</b>
 <br>
 
-![Comunicación activa](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
-![Escucha activa](https://img.shields.io/badge/Activelistening-orange?style=for-the-badge)
+![Comunicación activa](https://img.shields.io/badge/ComunicaciónActiva-blue?style=for-the-badge) 
+![Escucha activa](https://img.shields.io/badge/EscuchaActiva-orange?style=for-the-badge)
 ![Resolucion de problemas](https://img.shields.io/badge/Resoluciondeproblemas-orange?style=for-the-badge) 
 ![Time management](https://img.shields.io/badge/Timemanagement-8500fb?style=for-the-badge) 
 ![goal-oriented](https://img.shields.io/badge/goal-oriented-8500fb?style=for-the-badge) 
 ![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
-![Comunicacion verbal y escrita](https://img.shields.io/badge/Verbalandwrittencommunication-blue?style=for-the-badge) 
+![Comunicacion verbal y escrita](https://img.shields.io/badge/Comunicacionverbalyescrita-blue?style=for-the-badge) 
 
 
   <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
