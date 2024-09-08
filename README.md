@@ -6,35 +6,35 @@
 
 <br>
 
-
+<!--Sobre mí -->
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí</b>
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-:school: Programador full stack jr.
+:school:Programador full stack jr.
 
-:student: Actual Estudiante App Moviles en Politecnico de Cordoba, Arg.
+:student:Actual Estudiante App Moviles en Politecnico de Cordoba, Arg.
 
-:nerd_face: Amo aprender sobre todo lo que nos rodea.
+:nerd_face:Amo aprender sobre todo lo que nos rodea.
 
-🌱 &nbsp; Estoy fortaleciendo mis estudios sobre ciberseguridad.
+🌱 &nbsp;Estoy fortaleciendo mis estudios sobre ciberseguridad.
 
-✍️ &nbsp; En mi tiempo libre me gusta leer.
+✍️ &nbsp;En mi tiempo libre me gusta leer.
 
-💬 &nbsp; Sientete libre de escribirme por la razon que sea. Amo ayudar.
+💬 &nbsp;Sientete libre de escribirme por la razon que sea. Amo ayudar.
 
-✉️ &nbsp; Puedes enviarme un correo a eduiuorio@gmail.com si lo deseas.
+✉️ &nbsp;Puedes enviarme un correo a eduiuorio@gmail.com si lo deseas.
 
 :boom:Ingles [B2 Level](https://cert.efset.org/qAyz7k)
 
-📄 &nbsp; Mi [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
+📄 &nbsp;Mi [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
 
-:thinking: Siempre abierto a nuevas oportunidades.
-
+:thinking:Siempre abierto a nuevas oportunidades.
+<!--Soft Skills -->
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Skills</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Soft Skills</b>
 <br>
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
@@ -46,10 +46,10 @@
 
 
 <br>
-
+<!--Stack - Tecnologías - Herramienta -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Mi Stack</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Stack - Tecnologías - Herramientas</b>
 <br>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 
 <br>
-
+<!-- Algunos de mis proyectos -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Algunos de mis proyectos! 🎨<b>
 <br>
@@ -140,9 +140,9 @@
 
 
 <br>
-
+<!-- Mas sobre mí -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Certificados! 🏆<b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Mas sobre mí🏆<b>
 <br>
 
 <a href="https://github.com/user-attachments/assets/b5efcdc7-cae0-4e2c-9708-5a06dd834c4c" target="_blank" rel="noreferrer">
@@ -160,29 +160,19 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- Connect with me -->
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
+<!-- Conecta conmigo -->
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/eduardo-iuorio">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Elnenedelguion">
+		         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/Profitoiuo?t=omx0XwDjHHg_i_F6S3y7oQ&s=08">
+	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	</div>
 
 </p>
 
