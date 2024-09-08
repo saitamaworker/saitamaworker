@@ -26,7 +26,7 @@
 
 :thinking:Siempre abierto a nuevas oportunidades.
 
-:boom:Ingles [B2 Level](https://cert.efset.org/qAyz7k)
+:boom:[B2 Level](https://cert.efset.org/qAyz7k)
 
 📄 &nbsp;Mi [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
 
@@ -38,10 +38,10 @@
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Soft Skills</b>
 <br>
 
+![Time management](https://img.shields.io/badge/Timemanagement-8500fb?style=for-the-badge) 
 ![Comunicación activa](https://img.shields.io/badge/ComunicaciónActiva-blue?style=for-the-badge) 
 ![Escucha activa](https://img.shields.io/badge/EscuchaActiva-orange?style=for-the-badge)
 ![Resolucion de problemas](https://img.shields.io/badge/Resoluciondeproblemas-orange?style=for-the-badge) 
-![Time management](https://img.shields.io/badge/Timemanagement-8500fb?style=for-the-badge) 
 ![goal-oriented](https://img.shields.io/badge/goal-oriented-8500fb?style=for-the-badge) 
 ![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
