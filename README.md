@@ -1,13 +1,14 @@
+
 ## <img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 <h1 align="center"><strong>Bienvenidos a mi perfil, soy Eduardo Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NADA+HAY+TOTALMENTE+VERDADERO,;NADA+HAY+TOTALMENTE+FALSO;TEXTO+TAOISTA;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NADA+HAY+TOTALMENTE+VERDADERO,;NADA+HAY+TOTALMENTE+FALSO.;TODO+ES+RELATIVO,;LA+VERDAD+SOLO+ES+UNA+SOMBRA,;DEL+SER+QUE+LA+SOSTIENE."></a><img align="right" src="https://github.com/user-attachments/assets/c0e68610-0f7e-43f6-b1a7-8faf905d7417" width = 80px>
 </p>
-
 <br>
-
 <!--Sobre mí -->
+
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí</b>
+
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
@@ -43,11 +44,12 @@
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
 
+  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Stack - Tecnologías - Herramientas</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Mi Stack</b>
 <br>
 
 <p align="center">
@@ -156,6 +158,14 @@
 
 <br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+<div align=center>
+       <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+       </a>
+       <p>Ultima Edición: 08/09/2024</p>
+</div>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
 <p align="center">
@@ -169,26 +179,9 @@
 	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;"  target="_blank" href="https://discord.com/channels/elnenedelguion"><img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
         <a href="https://medium.com/@eduiuorio" target="blank"><img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
-	
-
-  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </div>
-
 </p>
-
-<br><br><br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conectar con diferentes personas</b> por lo que si quieres puedes saludarme.<b> Me encantaría</b></em> 🫣
-
-<br>
-
- <div align=center>
-       <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-       </a>
-       <p>Ultima Edición: 08/09/2024</p>
-</div>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> Me encantaría conectar con diferentes personas alrededor del mundo</b> por lo que si quieres puedes saludarme.</em> 🫣
 
 
 
