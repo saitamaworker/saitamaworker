@@ -5,7 +5,9 @@
 rokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CO+FOUNDER+OSO+DE+FUEGO+DF,;PROGRAMADOR+FULL+STACK,;ACTUAL+ESTUDIANTE+DE+APP+MOVILES ISPC"></a>
 </p>
 
-[edu robot mundo](https://github.com/user-attachments/assets/4d0ca745-45b7-41d6-bea5-57effa69476d)
+<br>
+
+  <picture>[edu robot mundo](https://github.com/user-attachments/assets/4d0ca745-45b7-41d6-bea5-57effa69476d)</picture>
 
     
     
