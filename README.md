@@ -1,7 +1,7 @@
-<img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-<h1 align="center"><strong>Hola, soy Eduardo Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=PROGRAMADOR+FULL+STACK,;APRENDIZ+CONTINUO,;ESTUDIANTE+ACTUAL+APLICACIONES+MOVILES+ISPC;"></a>
+## <img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+<h1 align="center"><strong>Bienvenidos a mi perfil, soy Eduardo Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NADA+HAY+TOTALMENTE+VERDADERO,;NADA+HAY+TOTALMENTE+FALSO;TEXTO+TAOISTA;"></a>
 </p>
 
 
@@ -11,9 +11,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí</b>
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -39,7 +37,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>><b> Skills</b>
 <br>
 
 
@@ -51,11 +49,11 @@
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
 
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 📱 Stack</b>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Stack</b>
 <br>
 
 <p align="center">
@@ -64,50 +62,32 @@
   </a>
 </p>
 
-<br><br>
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Algunos de mis proyectos! 🎨<b>
+<br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Certificados! 🏆<b>
+<br>
+  
+|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+|---|---|---|---|
+|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+  
+ 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!-- Connect with me -->
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 <p align="center">
 
@@ -134,6 +114,10 @@
 
 <br><br>
 
+
+Credit: [Eduardo Iuorio](https://github.com/saitamaworker)
+
+Last Edited on: 08/09/2024
 
 
 
