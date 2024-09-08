@@ -16,19 +16,19 @@
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-:school:Programador full stack jr.
+:school: Programador full stack jr.
 
-:student:Actual Estudiante Aplicaciones Moviles en ISPC.
+:student: Actual Estudiante Aplicaciones Moviles en Instituo Politecnico de Cordoba, Arg.
 
-:nerd_face:Amo aprender continuamente
+:nerd_face: Amo aprender continuamente.
 
 🌱 &nbsp;Estoy fortaleciendo mis estudios sobre ciberseguridad.
 
-✍️ &nbsp;En mi tiempo libre me gusta escribir sobre temas relacionados a la seguridad, programacion y entrenamiento fisico.
+✍️ &nbsp; En mi tiempo libre me gusta escribir.
 
-💬 &nbsp;Sientete libre de escribirme por la razon que sea. Amo ayudar.
+💬 &nbsp ;Sientete libre de escribirme por la razon que sea. Amo ayudar.
 
-✉️ &nbsp;Sientete libre de enviarme un correo eduiuorio@gmail.com!. Tratare de responder a la brevedad.
+✉️ &nbsp; Sientete libre de enviarme un correo a eduiuorio@gmail.com!. Tratare de responder a la brevedad.
 
 :thinking: Siempre abierto a nuevas oportunidades.
 
@@ -37,7 +37,6 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
