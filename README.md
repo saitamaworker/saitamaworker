@@ -29,6 +29,13 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
+![Interacción](https://img.shields.io/badge/Interacción-orange?style=for-the-badge) 
+![Planificación y Foco](https://img.shields.io/badge/Planificación%20y%20Foco-8500fb?style=for-the-badge) 
+![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
+![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
+![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
+
 
 
   
