@@ -32,21 +32,27 @@
 
 ✉️ &nbsp;<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
 <br>
+<!--Soft Skills-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Soft Skills</b>
 <br>
 
-![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
+![Comunicación activa](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
+![Escucha activa](https://img.shields.io/badge/Activelistening-orange?style=for-the-badge)
 ![Resolucion de problemas](https://img.shields.io/badge/Resoluciondeproblemas-orange?style=for-the-badge) 
-![Planificación y Foco](https://img.shields.io/badge/Planificación%20y%20Foco-8500fb?style=for-the-badge) 
+![Time management](https://img.shields.io/badge/Timemanagement-8500fb?style=for-the-badge) 
+![goal-oriented](https://img.shields.io/badge/goal-oriented-8500fb?style=for-the-badge) 
 ![Productividad](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
+![Comunicacion verbal y escrita](https://img.shields.io/badge/Verbalandwrittencommunication-blue?style=for-the-badge) 
+
 
   <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 <br>
+<!-- My Stack -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> 📱 Mi Stack</b>
@@ -60,6 +66,7 @@
 
 
 <br>
+<!--Projects-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b>Algunos de mis proyectos! 🎨<b>
@@ -138,7 +145,7 @@
 </div>                                                             
 </table> 
 
-
+<!--More About Me-->
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -155,8 +162,8 @@
 <img src="https://img.shields.io/badge/-Experiencia-red?style=for-the-badge&color=red">
 </a>
 
-
-<br><br>
+<!--Github Logo Credits-->
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
