@@ -7,7 +7,9 @@ rokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&widt
 
 <br>
 
-  <picture>[edu robot mundo](https://github.com/user-attachments/assets/4d0ca745-45b7-41d6-bea5-57effa69476d)</picture>
+  [edu robot mundo](https://github.com/user-attachments/assets/4d0ca745-45b7-41d6-bea5-57effa69476d)
+
+  *************************************************************************************************
 
     
     
