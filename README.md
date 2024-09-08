@@ -47,6 +47,7 @@
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
 ![Comunicacion verbal y escrita](https://img.shields.io/badge/Comunicacionverbalyescrita-blue?style=for-the-badge) 
+![Scrum](https://img.shields.io/badge/Scrum-FF0033?style=for-the-badge) 
 
 
   <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
