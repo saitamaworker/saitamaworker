@@ -175,7 +175,8 @@
 	<a style="margin-left: 10px;"  target="_blank" href= https://discord.com/channels/elnenedelguion">
                          <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
         <a href="https://medium.com/@eduiuorio" target="blank">
-		         <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="medium" height="50" width="50" /></a>
+		  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  
+	 <a href = "mailto: eduiuorio@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"></a>
 
   
 </div>
