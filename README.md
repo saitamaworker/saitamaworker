@@ -20,7 +20,15 @@
 
 :student:Actual Estudiante Aplicaciones Moviles en ISPC.
 
-:nerd_face:Amo aprender continuamente.
+:nerd_face:Amo aprender continuamente
+
+🌱 &nbsp;Estoy fortaleciendo mis estudios sobre ciberseguridad.
+
+✍️ &nbsp;En mi tiempo libre me gusta escribir sobre temas relacionados a la seguridad, programacion y entrenamiento fisico.
+
+💬 &nbsp;Sientete libre de escribirme por la razon que sea. Amo ayudar.
+
+✉️ &nbsp;Sientete libre de enviarme un correo eduiuorio@gmail.com!. Tratare de responder a la brevedad.
 
 :thinking: Siempre abierto a nuevas oportunidades.
 
@@ -33,6 +41,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-blue?style=for-the-badge) 
 ![Interacción](https://img.shields.io/badge/Interacción-orange?style=for-the-badge) 
