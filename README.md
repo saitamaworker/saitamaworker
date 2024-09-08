@@ -10,8 +10,9 @@
 
 
     
-##Sobre mí
+## Sobre mí
 <br>
+
 :small_orange_diamond:Programador full stack jr
 
 :small_orange_diamond:Actual Estudiante Aplicaciones Moviles en ISPC
