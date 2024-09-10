@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,markdown,git,github,html,java,css,angular,bootstrap,tailwind,figma,django,nodejs,py,ts,js,mysql,sqlite,postman,selenium,vscode,vercel,androidstudio,windows,discord"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow,markdown,git,github,html,java,css,angular,bootstrap,tailwind,figma,django,nodejs,py,ts,js,mysql,sqlite,postman,selenium,vscode,vercel,androidstudio,WordPress,windows,discord"/>
   </a>
 </p>
 
