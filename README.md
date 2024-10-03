@@ -18,7 +18,7 @@
 
 :nerd_face:Amo aprender sobre todo lo que nos rodea.
 
-🌱 &nbsp;Profundizando mis estudios sobre Ciberseguridad.
+🌱 &nbsp;Profundizando mis estudios.
 
 ✍️ &nbsp;En mi tiempo libre me gusta leer.
 
