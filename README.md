@@ -183,7 +183,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Elnenedelguion">
 		         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://x.com/Profitoiuo?t=omx0XwDjHHg_i_F6S3y7oQ&s=08">
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/elnenedelguion?t=omx0XwDjHHg_i_F6S3y7oQ&s=08">
 	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;"  target="_blank" href="https://discord.com/channels/elnenedelguion"><img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
         <a href="https://medium.com/@eduiuorio" target="blank"><img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
