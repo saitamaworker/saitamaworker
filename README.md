@@ -12,13 +12,13 @@
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-:school:Programador full stack jr.
+:school: Programador full stack.
 
-:student:Actual Estudiante App Moviles en Politecnico de Cordoba, Arg.
+👷‍♂️ Co-founder Consultora Eclipe I|G Córdoba, Argentina.
 
-:nerd_face:Amo aprender sobre todo lo que nos rodea.
+👮 Ex Sargento, Policia de Cordoba.
 
-🌱 &nbsp;Profundizando mis estudios.
+:nerd_face: Amo aprender sobre todo lo que nos rodea.
 
 ✍️ &nbsp;En mi tiempo libre me gusta leer.
 
@@ -26,11 +26,9 @@
 
 :thinking:Siempre abierto a nuevas oportunidades.
 
-:boom:[B2 Level](https://cert.efset.org/qAyz7k)
+:boom:[B2 Level](https://cert.efset.org/qAyz7k). En transición hacia nivel C1.
 
-📄 &nbsp;Mi [CV](https://drive.google.com/file/d/12I7qj1l_YvGFsLoZO0C46SS9LUGG0vgM/view?usp=sharing)
-
-✉️ &nbsp;<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
+<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
 <br>
 <!--Soft Skills-->
 
@@ -172,7 +170,7 @@
        <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
        </a>
-       <p>Ultima Edición: 08/09/2024</p>
+       <p>Ultima Edición: 25/03/2025</p>
 </div>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
@@ -188,7 +186,21 @@
 	<a style="margin-left: 10px;"  target="_blank" href="https://discord.com/channels/elnenedelguion"><img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
         <a href="https://medium.com/@eduiuorio" target="blank"><img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
 </div>
-</p>
+</p><br>
+<p align="center">
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+	    <a href="https://www.instagram.com/elnenedelguion" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-@elnenedelguion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+	<a href="https://www.instagram.com/eclipseconsultora.ok" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-@eclipseconsultora.ok-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+	</a>
+	</p></div>
+
+    
+<p align="center">
+<a href="mailto:eclipseigconsultora@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a></p>
+<p align="center">HR Eclipse Consultora Mail</p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> Me encantaría conectar con diferentes personas alrededor del mundo</b> por lo que si quieres puedes saludarme.</em> 🫣
 
 
